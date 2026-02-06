@@ -31,6 +31,7 @@ A simple Arduino project: a robot that follows a black line using 3 sensors and 
 - `main.cpp` → Main robot logic
 - src/main.cpp
 - https://github.com/ahmedsherifff4/Liner-Follower-Robot/blob/7447788153eb849d8eb52e828cc24e8f7b8db21d/src/main.cpp
+- [`main.cpp`](https://github.com/ahmedsherifff4/Liner-Follower-Robot/blob/main/src/main.cpp) → Main robot logic
 - Sensors are read every loop, and motors are controlled accordingly
 
 ## How to Run
@@ -41,6 +42,7 @@ A simple Arduino project: a robot that follows a black line using 3 sensors and 
 
 ## Image
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/20c4693a-4c40-4e29-b528-2e2a00bff30e" />
+
 
 
 
