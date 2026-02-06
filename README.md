@@ -28,7 +28,8 @@ A simple Arduino project: a robot that follows a black line using 3 sensors and 
 | Motor B ENB  | 5           |
 
 ## Code
-- `src/main.cpp` → Main robot logic  
+- `https://github.com/ahmedsherifff4/Liner-Follower-Robot/blob/c5ea9c00e2f506a32f94fa24f8fd4c0d8c8cd1a5/main.cpp.txt` → Main robot logic
+- 
 - Sensors are read every loop, and motors are controlled accordingly
 
 ## How to Run
@@ -39,6 +40,7 @@ A simple Arduino project: a robot that follows a black line using 3 sensors and 
 
 ## Image
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/20c4693a-4c40-4e29-b528-2e2a00bff30e" />
+
 
 
 
