@@ -37,9 +37,9 @@ A simple Arduino project: a robot that follows a black line using 3 sensors and 
 3. Upload the code to the Arduino board
 4. Place the robot on a black line and power it on
 
-## Screenshots
-![Line Follower Robot](Liner_Follwer/images/liner_follower.png)
+## Image
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/20c4693a-4c40-4e29-b528-2e2a00bff30e" />
+
 
 
 
